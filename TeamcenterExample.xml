@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="windows-1254"?>
+<MatML_Doc>
+	<Material>
+		<BulkDetails>
+			<Name>Aluminium91</Name>
+			<TCItemAttribute name="mat1external_identifier">
+				<Data>Aluminium91</Data>
+			</TCItemAttribute>
+			<Class><Name>METAL|STEEL|STAINLESS</Name></Class>
+			<TCItemRevAttribute name="mat1Applications">
+				<Data>PVC</Data>
+			</TCItemRevAttribute>
+			<TCItemRevAttribute name="mat1DataVersionInSource">
+				<Data>1.0</Data>
+			</TCItemRevAttribute>
+			<PropertyData property="Version">
+				<Notes>Version 1 </Notes>
+				<Data format="string">1.0</Data>
+			</PropertyData>
+			<PropertyData property="Material Type">
+				<Notes>Material Type 1</Notes>
+				<Data format="string">IsotropicMaterial</Data>
+			</PropertyData>
+			<PropertyData property="StringParameter">
+				<Notes>String with String reference value 1 </Notes>
+				<Data format="string">Value2</Data>
+				<ParameterValue isreferenceparam="true" parameter="StringRefParam">
+					<Data format="string">test,123&quot;Test&quot;</Data>
+				</ParameterValue>
+			</PropertyData>
+			<PropertyData property="StringParam">
+				<Notes>String with double reference value</Notes>
+				<Data format="string">Aluminium32</Data>
+				<ParameterValue isreferenceparam="true" parameter="DoubleRefParam">
+					<Data format="exponential">3.32, 4.32</Data>
+				</ParameterValue>
+			</PropertyData>
+			<PropertyData delimiter=";" property="Thermal Conductivity (K)_X">
+				<Notes>Thermal Conductivity vs Temperature 1 </Notes>
+				<Data format="exponential">2,000000E+001;2,111000E+001;2,389000E+001;3,778000E+001;5,167000E+001;6,556000E+001;7,944000E+001;9,333000E+001;1,072200E+002;1,211100E+002;1,350000E+002;1,488900E+002;1,627800E+002;1,766700E+002;1,905600E+002;2,044400E+002;2,183300E+002;2,322200E+002;2,461100E+002;2,600000E+002;2,738900E+002;2,877800E+002;3,016700E+002;3,155600E+002;3,294400E+002;3,433300E+002;3,572200E+002;3,711100E+002;3,850000E+002;3,988900E+002;4,127800E+002;4,266700E+002</Data>
+				<Qualifier> Temperature </Qualifier>
+				<ParameterValue delimiter=";" format = "exponential" parameter="Thermal Conductivity (K)_Y">
+					<Data format="exponential">1,542500E+005;1,543200E+005;1,545400E+005;1,556800E+005;1,568800E+005;1,581600E+005;1,595300E+005;1,609600E+005;1,624900E+005;1,641200E+005;1,657900E+005;1,674500E+005;1,690900E+005;1,707500E+005;1,724200E+005;1,740800E+005;1,758300E+005;1,774000E+005;1,785100E+005;1,792700E+005;1,796900E+005;1,797200E+005;1,794900E+005;1,791300E+005;1,785800E+005;1,778200E+005;1,768700E+005;1,758100E+005;1,746300E+005;1,732900E+005;1,718000E+005;1,701900E+005</Data>
+				</ParameterValue>
+			</PropertyData>
+			<PropertyData delimiter=";" property="TableRef">
+				<Notes>Poissons Ratio (NU) Vs Temperature</Notes>
+				<Data format="exponential">1,2;1,2;5.2;5.2;56.20;56.20;56.20</Data>
+				<Qualifier> TableRef </Qualifier>
+				<ParameterValue delimiter=";" format = "exponential" parameter="Poissons Ratio (NU)_X">
+					<Data format="exponential">2.0;3,3;6,66;7,77;6,66;7,77;8,77</Data>
+				</ParameterValue>
+				<ParameterValue delimiter=";" format = "exponential" parameter="Poissons Ratio (NU)_Y">
+					<Data format="exponential">22.0;33.4;66,66;77,77;66,66;77,77;88,88</Data>
+				</ParameterValue>
+			</PropertyData>
+			<PropertyData delimiter=";" property="TableReference">
+				<Notes>Poissons Ratio Vs Temperature</Notes>
+				<Data format="exponential">333;333</Data>
+				<Qualifier> TableReference </Qualifier>
+				<ParameterValue delimiter=";" format = "exponential" parameter="Poissons Ratio_X">
+					<Data format="exponential">2,000000E+001;2,111000E+001</Data>
+				</ParameterValue>
+				<ParameterValue delimiter=";" format = "exponential" parameter="Poissons Ratio_Y">
+					<Data format="exponential">3,300000E-001;3,300000E-001</Data>
+				</ParameterValue>
+			</PropertyData>
+			<PropertyData property="Anisotropy Coefficient R45">
+				<Notes>Double parameter without reference</Notes>
+				<Data format="exponential">1.9</Data>
+			</PropertyData>
+			<PropertyData property="Anisotropy Coefficient R0">
+				<Notes>Double parameter with double reference parameter</Notes>
+				<Data format="exponential">1.6, 3.6</Data>
+				<ParameterValue isreferenceparam="true" parameter="Temperature">
+					<Data format="exponential">2</Data>
+				</ParameterValue>
+			</PropertyData>
+			<PropertyData property="Anisotropy Coefficient R90">
+				<Notes>Double parameter with string reference parameter</Notes>
+				<Data format="exponential">1.6, 3.2</Data>
+				<ParameterValue isreferenceparam="true" parameter="StringParameter">
+					<Data format="string">String Param</Data>
+				</ParameterValue>
+			</PropertyData>
+			<SubstanceData property="Bromoethylmercury" >
+				<Data format="exponential">22.0</Data>
+			</SubstanceData>
+		</BulkDetails>
+	</Material>
+	<Material>
+		<BulkDetails>
+			<Name>Aluminium90</Name>
+			<TCItemAttribute name="mat1external_identifier">
+				<Data>Aluminium90</Data>
+			</TCItemAttribute>
+			<Class><Name>Plastic</Name></Class>
+			<TCItemRevAttribute name="mat1Applications">
+				<Data>PVC#STEEL</Data>
+			</TCItemRevAttribute>
+			<TCItemRevAttribute name="mat1DataVersionInSource">
+				<Data>1.0</Data>
+			</TCItemRevAttribute>
+			<PropertyData property="Version">
+				<Notes>Version 1 </Notes>
+				<Data format="string">1.0</Data>
+			</PropertyData>
+			<PropertyData property="Material Type">
+				<Notes>Material Type 1</Notes>
+				<Data format="string">IsotropicMaterial</Data>
+			</PropertyData>
+			<PropertyData property="StringParameter">
+				<Notes>String with String reference value 1 </Notes>
+				<Data format="string">Value1</Data>
+				<ParameterValue isreferenceparam="true" parameter="StringRefParam">
+					<Data format="string">RefParam</Data>
+				</ParameterValue>
+			</PropertyData>
+			<PropertyData property="StringParam">
+				<Notes>String with double reference value</Notes>
+				<Data format="string">Aluminium31</Data>
+				<ParameterValue isreferenceparam="true" parameter="DoubleRefParam">
+					<Data format="exponential">1.31, 2.31</Data>
+				</ParameterValue>
+			</PropertyData>
+			<PropertyData delimiter=";" property="Thermal Conductivity (K)_X">
+				<Notes>Thermal Conductivity vs Temperature 1 </Notes>
+				<Data format="exponential">2,000000E+001;2,111000E+001;2,389000E+001;3,778000E+001;5,167000E+001;6,556000E+001;7,944000E+001;9,333000E+001;1,072200E+002;1,211100E+002;1,350000E+002;1,488900E+002;1,627800E+002;1,766700E+002;1,905600E+002;2,044400E+002;2,183300E+002;2,322200E+002;2,461100E+002;2,600000E+002;2,738900E+002;2,877800E+002;3,016700E+002;3,155600E+002;3,294400E+002;3,433300E+002;3,572200E+002;3,711100E+002;3,850000E+002;3,988900E+002;4,127800E+002;4,266700E+002</Data>
+				<Qualifier> Temperature </Qualifier>
+				<ParameterValue delimiter=";" format = "exponential" parameter="Thermal Conductivity (K)_Y">
+					<Data format="exponential">1,542500E+005;1,543200E+005;1,545400E+005;1,556800E+005;1,568800E+005;1,581600E+005;1,595300E+005;1,609600E+005;1,624900E+005;1,641200E+005;1,657900E+005;1,674500E+005;1,690900E+005;1,707500E+005;1,724200E+005;1,740800E+005;1,758300E+005;1,774000E+005;1,785100E+005;1,792700E+005;1,796900E+005;1,797200E+005;1,794900E+005;1,791300E+005;1,785800E+005;1,778200E+005;1,768700E+005;1,758100E+005;1,746300E+005;1,732900E+005;1,718000E+005;1,701900E+005</Data>
+				</ParameterValue>
+			</PropertyData>
+			<PropertyData delimiter=";" property="TableRef">
+				<Notes>Poissons Ratio (NU) Vs Temperature</Notes>
+				<Data format="exponential">1,2;1,2;5.2;5.2;56.20;56.20;56.20</Data>
+				<Qualifier> TableRef </Qualifier>
+				<ParameterValue delimiter=";" format = "exponential" parameter="Poissons Ratio (NU)_X">
+					<Data format="exponential">2.0;3,3;6,66;7,77;6,66;7,77;8,77</Data>
+				</ParameterValue>
+				<ParameterValue delimiter=";" format = "exponential" parameter="Poissons Ratio (NU)_Y">
+					<Data format="exponential">22.0;33.4;66,66;77,77;66,66;77,77;88,88</Data>
+				</ParameterValue>
+			</PropertyData>
+			<PropertyData delimiter=";" property="TableReference">
+				<Notes>Poissons Ratio Vs Temperature</Notes>
+				<Data format="exponential">333;333</Data>
+				<Qualifier> TableReference </Qualifier>
+				<ParameterValue delimiter=";" format = "exponential" parameter="Poissons Ratio_X">
+					<Data format="exponential">2,000000E+001;2,111000E+001</Data>
+				</ParameterValue>
+				<ParameterValue delimiter=";" format = "exponential" parameter="Poissons Ratio_Y">
+					<Data format="exponential">3,300000E-001;3,300000E-001</Data>
+				</ParameterValue>
+			</PropertyData>
+			<PropertyData property="Anisotropy Coefficient R45">
+				<Notes>Double parameter without reference</Notes>
+				<Data format="exponential">2.0</Data>
+			</PropertyData>
+			<PropertyData property="Anisotropy Coefficient R0">
+				<Notes>Double parameter with double reference parameter</Notes>
+				<Data format="exponential">22</Data>
+				<ParameterValue isreferenceparam="true" parameter="Temperature">
+					<Data format="exponential">33, 55</Data>
+				</ParameterValue>
+			</PropertyData>
+			<PropertyData property="Anisotropy Coefficient R90">
+				<Notes>Double parameter with string reference parameter</Notes>
+				<Data format="exponential">2, 5</Data>
+				<ParameterValue isreferenceparam="true" parameter="StringParameter">
+					<Data format="string">String Parameter Value</Data>
+				</ParameterValue>
+			</PropertyData>
+			<SubstanceData property="Bromoethylmercury" >
+				<Data format="exponential">11.0</Data>
+			</SubstanceData>
+		</BulkDetails>
+	</Material>
+	<Material>
+		<BulkDetails>
+			<Name>Aluminium92</Name>
+			<TCItemAttribute name="mat1external_identifier">
+				<Data>Aluminium92</Data>
+			</TCItemAttribute>
+			<Class><Name>METAL</Name></Class>
+			<TCItemRevAttribute name="mat1Applications">
+				<Data>PVC</Data>
+			</TCItemRevAttribute>
+			<TCItemRevAttribute name="mat1DataVersionInSource">
+				<Data>1.0</Data>
+			</TCItemRevAttribute>
+			<PropertyData property="Version">
+				<Notes>Version 1 </Notes>
+				<Data format="string">1.0</Data>
+			</PropertyData>
+			<PropertyData property="Material Type">
+				<Notes>Material Type 1</Notes>
+				<Data format="string">IsotropicMaterial</Data>
+			</PropertyData>
+			<PropertyData property="StringParameter">
+				<Notes>String with String reference value 1 </Notes>
+				<Data format="string">Value3</Data>
+				<ParameterValue isreferenceparam="true" parameter="StringRefParam">
+					<Data format="string">test,123</Data>
+				</ParameterValue>
+			</PropertyData>
+			<PropertyData property="StringParam">
+				<Notes>String with double reference value</Notes>
+				<Data format="string">Aluminium33</Data>
+				<ParameterValue isreferenceparam="true" parameter="DoubleRefParam">
+					<Data format="exponential">5.33, 6.33</Data>
+				</ParameterValue>
+			</PropertyData>
+			<PropertyData delimiter=";" property="Thermal Conductivity (K)_X">
+				<Notes>Thermal Conductivity vs Temperature 1 </Notes>
+				<Data format="exponential">2,000000E+001;2,111000E+001;2,389000E+001;3,778000E+001;5,167000E+001;6,556000E+001;7,944000E+001;9,333000E+001;1,072200E+002;1,211100E+002;1,350000E+002;1,488900E+002;1,627800E+002;1,766700E+002;1,905600E+002;2,044400E+002;2,183300E+002;2,322200E+002;2,461100E+002;2,600000E+002;2,738900E+002;2,877800E+002;3,016700E+002;3,155600E+002;3,294400E+002;3,433300E+002;3,572200E+002;3,711100E+002;3,850000E+002;3,988900E+002;4,127800E+002;4,266700E+002</Data>
+				<Qualifier> Temperature </Qualifier>
+				<ParameterValue delimiter=";" format = "exponential" parameter="Thermal Conductivity (K)_Y">
+					<Data format="exponential">1,542500E+005;1,543200E+005;1,545400E+005;1,556800E+005;1,568800E+005;1,581600E+005;1,595300E+005;1,609600E+005;1,624900E+005;1,641200E+005;1,657900E+005;1,674500E+005;1,690900E+005;1,707500E+005;1,724200E+005;1,740800E+005;1,758300E+005;1,774000E+005;1,785100E+005;1,792700E+005;1,796900E+005;1,797200E+005;1,794900E+005;1,791300E+005;1,785800E+005;1,778200E+005;1,768700E+005;1,758100E+005;1,746300E+005;1,732900E+005;1,718000E+005;1,701900E+005</Data>
+				</ParameterValue>
+			</PropertyData>
+			<PropertyData delimiter=";" property="TableRef">
+				<Notes>Poissons Ratio (NU) Vs Temperature</Notes>
+				<Data format="exponential">1,2;1,2;5.2;5.2;56.20;56.20;56.20</Data>
+				<Qualifier> TableRef </Qualifier>
+				<ParameterValue delimiter=";" format = "exponential" parameter="Poissons Ratio (NU)_X">
+					<Data format="exponential">2.0;3,3;6,66;7,77;6,66;7,77;8,77</Data>
+				</ParameterValue>
+				<ParameterValue delimiter=";" format = "exponential" parameter="Poissons Ratio (NU)_Y">
+					<Data format="exponential">22.0;33.4;66,66;77,77;66,66;77,77;88,88</Data>
+				</ParameterValue>
+			</PropertyData>
+			<PropertyData delimiter=";" property="TableReference">
+				<Notes>Poissons Ratio Vs Temperature</Notes>
+				<Data format="exponential">333;333</Data>
+				<Qualifier> TableReference </Qualifier>
+				<ParameterValue delimiter=";" format = "exponential" parameter="Poissons Ratio_X">
+					<Data format="exponential">2,000000E+001;2,111000E+001</Data>
+				</ParameterValue>
+				<ParameterValue delimiter=";" format = "exponential" parameter="Poissons Ratio_Y">
+					<Data format="exponential">3,300000E-001;3,300000E-001</Data>
+				</ParameterValue>
+			</PropertyData>
+			<PropertyData property="Anisotropy Coefficient R45">
+				<Notes>Double parameter without reference</Notes>
+				<Data format="exponential">2, 5</Data>
+			</PropertyData>
+			<PropertyData property="Anisotropy Coefficient R0">
+				<Notes>Double parameter with double reference parameter</Notes>
+				<Data format="exponential">2, 8</Data>
+				<ParameterValue isreferenceparam="true" parameter="Temperature">
+					<Data format="exponential">1</Data>
+				</ParameterValue>
+			</PropertyData>
+			<PropertyData property="Anisotropy Coefficient R90">
+				<Notes>Double parameter with string reference parameter</Notes>
+				<Data format="exponential">2</Data>
+				<ParameterValue isreferenceparam="true" parameter="StringParameter">
+					<Data format="string">String parameter</Data>
+				</ParameterValue>
+			</PropertyData>
+			<SubstanceData property="Bromoethylmercury" >
+				<Data format="exponential">33.0</Data>
+			</SubstanceData>
+		</BulkDetails>
+	</Material>
+	<Metadata>
+		<PropertyDetails id = "Version" type="Other">
+			<Notes>Version 1</Notes>
+			<Name>Version</Name>
+			<Units name = "UNITLESS">
+				<Unitless/>
+			</Units>
+		</PropertyDetails>
+		<PropertyDetails id = "Material Type" type="Other">
+			<Notes>Material Type 1</Notes>
+			<Name>Material Type</Name>
+			<Units name = "UNITLESS">
+				<Unitless/>
+			</Units>
+		</PropertyDetails>
+		<PropertyDetails id = "StringParameter" type="Physical">
+			<Notes>String with String reference value 1</Notes>
+			<Name>StringParameter</Name>
+			<Units name = "UNITLESS">
+				<Unitless/>
+			</Units>
+		</PropertyDetails>
+		<ParameterDetails id = "StringRefParam" type="">
+			<Name>StringRefParam</Name>
+			<Units name = "UNITLESS">
+				<Unitless/>
+			</Units>
+		</ParameterDetails>
+		<PropertyDetails id = "StringParam" type="Physical">
+			<Notes>String with double reference value</Notes>
+			<Name>StringParam</Name>
+			<Units name = "UNITLESS">
+				<Unitless/>
+			</Units>
+		</PropertyDetails>
+		<ParameterDetails id = "DoubleRefParam" type="">
+			<Name>DoubleRefParam</Name>
+			<Units name = "UNITLESS">
+				<Unitless/>
+			</Units>
+		</ParameterDetails>
+		<PropertyDetails id = "Thermal Conductivity (K)_X" type="Thermal">
+			<Notes>Thermal Conductivity vs Temperature 1 </Notes>
+			<Name>Temperature</Name>
+			<Units name = "C">
+				<Unit>
+					<Name>C</Name>
+				</Unit>
+			</Units>
+		</PropertyDetails>
+		<PropertyDetails id = "Thermal Conductivity (K)_Y" type="Thermal">
+			<Notes>Thermal Conductivity vs Temperature 1 </Notes>
+			<Name>Thermal Conductivity (K)</Name>
+			<Units name = "microW/mm-C">
+				<Unit>
+					<Name>microW/mm-C</Name>
+				</Unit>
+			</Units>
+		</PropertyDetails>
+		<PropertyDetails id = "Poissons Ratio (NU)_X" type="Mechanical">
+			<Notes>Poissons Ratio (NU) Vs Temperature</Notes>
+			<Name>Temperature</Name>
+			<Units name = "C">
+				<Unit>
+					<Name>C</Name>
+				</Unit>
+			</Units>
+		</PropertyDetails>
+		<PropertyDetails id = "Poissons Ratio (NU)_Y" type="Mechanical">
+			<Notes>Poissons Ratio (NU) Vs Temperature</Notes>
+			<Name>Poissons Ratio (NU)</Name>
+			<Units name = "UNITLESS">
+				<Unitless/>
+			</Units>
+		</PropertyDetails>
+		<PropertyDetails id = "TableRef" type="Mechanical">
+			<Notes>Poissons Ratio (NU) Vs Temperature</Notes>
+			<Name>TableRef</Name>
+			<Units name = "C">
+				<Unit>
+					<Name>C</Name>
+				</Unit>
+			</Units>
+		</PropertyDetails>
+		<PropertyDetails id = "Poissons Ratio_X" type="Mechanical">
+			<Notes>Poissons Ratio Vs Temperature</Notes>
+			<Name>Temperature</Name>
+			<Units name = "C">
+				<Unit>
+					<Name>C</Name>
+				</Unit>
+			</Units>
+		</PropertyDetails>
+		<PropertyDetails id = "Poissons Ratio_Y" type="Mechanical">
+			<Notes>Poissons Ratio Vs Temperature</Notes>
+			<Name>Poissons Ratio</Name>
+			<Units name = "UNITLESS">
+				<Unitless/>
+			</Units>
+		</PropertyDetails>
+		<PropertyDetails id = "TableReference" type="Mechanical">
+			<Notes>Poissons Ratio Vs Temperature</Notes>
+			<Name>TableReference</Name>
+			<Units name = "C">
+				<Unit>
+					<Name>C</Name>
+				</Unit>
+			</Units>
+		</PropertyDetails>
+		<PropertyDetails id = "Anisotropy Coefficient R45" type="Physical">
+			<Notes>Double parameter without reference</Notes>
+			<Name>Anisotropy Coefficient R45</Name>
+			<Units name = "UNITLESS">
+				<Unitless/>
+			</Units>
+		</PropertyDetails>
+		<PropertyDetails id = "Anisotropy Coefficient R0" type="Physical">
+			<Notes>Double parameter with double reference parameter</Notes>
+			<Name>Anisotropy Coefficient R0</Name>
+			<Units name = "UNITLESS">
+				<Unitless/>
+			</Units>
+		</PropertyDetails>
+		<ParameterDetails id = "Temperature" type="">
+			<Name>Temperature</Name>
+			<Units name = "C">
+				<Unit>
+					<Name>C</Name>
+				</Unit>
+			</Units>
+		</ParameterDetails>
+		<PropertyDetails id = "Anisotropy Coefficient R90" type="Physical">
+			<Notes>Double parameter with string reference parameter</Notes>
+			<Name>Anisotropy Coefficient R90</Name>
+			<Units name = "UNITLESS">
+				<Unitless/>
+			</Units>
+		</PropertyDetails>
+		<ParameterDetails id = "StringParameter" type="">
+			<Name>StringParameter</Name>
+			<Units name = "UNITLESS">
+				<Unitless/>
+			</Units>
+		</ParameterDetails>
+		<SubstanceDetails id = "Bromoethylmercury">
+			<Notes>Substance Description 2</Notes>
+			<CasNumber>9031-72-5</CasNumber>
+			<Name>Bromoethylmercury</Name>
+			<Units name = "%">
+				<Unit>
+					<Name>%</Name>
+				</Unit>
+			</Units>
+		</SubstanceDetails>
+	</Metadata>
+</MatML_Doc>

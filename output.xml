@@ -1,0 +1,703 @@
+<MatML_Doc>
+  <Material>
+    <BulkDetails>
+      <Name>2050, T852, Die Forging, Thickness: 2 to 3.001 in, AMS 4357, A Basis</Name>
+      <PropertyData property="Approval Status">
+        <Data format="string">MP USER, MMU</Data>
+      </PropertyData>
+      <PropertyData property="Material Type">
+        <Data format="string">Aluminum</Data>
+      </PropertyData>
+      <PropertyData property="Alloy Type">
+        <Data format="string">2000 Series Wrought Alloys</Data>
+      </PropertyData>
+      <PropertyData property="Grade Type">
+        <Data format="string">2050</Data>
+      </PropertyData>
+      <PropertyData property="Heat Treatment">
+        <Data format="string">T852</Data>
+      </PropertyData>
+      <PropertyData property="Available Form">
+        <Data format="string">Die Forging</Data>
+      </PropertyData>
+      <PropertyData property="Thickness">
+        <Data format="string">50.8≤x&lt;76.225 mm</Data>
+      </PropertyData>
+      <PropertyData property="Material Specification">
+        <Data format="string">AMS 4357</Data>
+      </PropertyData>
+      <PropertyData property="Density">
+        <Data format="exponential">2.71263066159991</Data>
+      </PropertyData>
+      <PropertyData property="Coefficient of Thermal Expansion">
+        <Data format="exponential">2.1618E-05</Data>
+      </PropertyData>
+      <PropertyData property="Specific Heat">
+        <Data format="exponential">0.879231456208136</Data>
+      </PropertyData>
+      <PropertyData property="Statistical Basis">
+        <Data format="string">A basis</Data>
+      </PropertyData>
+      <PropertyData property="Tensile Ultimate Strength, L">
+        <Data format="exponential">510.212083824168</Data>
+      </PropertyData>
+      <PropertyData property="Tensile Ultimate Strength, LT">
+        <Data format="exponential">510.212083824168</Data>
+      </PropertyData>
+      <PropertyData property="Tensile Ultimate Strength, ST">
+        <Data format="exponential">503.317325934652</Data>
+      </PropertyData>
+      <PropertyData property="Tensile Yield Strength, L">
+        <Data format="exponential">468.843536487073</Data>
+      </PropertyData>
+      <PropertyData property="Tensile Yield Strength, LT">
+        <Data format="exponential">468.843536487073</Data>
+      </PropertyData>
+      <PropertyData property="Tensile Yield Strength, ST">
+        <Data format="exponential">441.26450492901</Data>
+      </PropertyData>
+      <PropertyData property="% Elongation (4D), L">
+        <Data format="exponential">8</Data>
+      </PropertyData>
+      <PropertyData property="% Elongation (4D), LT">
+        <Data format="exponential">6</Data>
+      </PropertyData>
+      <PropertyData property="% Elongation (4D), ST">
+        <Data format="exponential">3</Data>
+      </PropertyData>
+      <PropertyData property="Tensile Modulus, L">
+        <Data format="exponential">75.8423367846736</Data>
+      </PropertyData>
+      <PropertyData property="Poisson’s Ratio">
+        <Data format="exponential">0.33</Data>
+      </PropertyData>
+      <PropertyData property="Compressive Yield Strength, L">
+        <Data format="exponential">482.633052266105</Data>
+      </PropertyData>
+      <PropertyData property="Compressive Yield Strength, LT">
+        <Data format="exponential">496.422568045136</Data>
+      </PropertyData>
+      <PropertyData property="Compressive Yield Strength, ST">
+        <Data format="exponential">489.52781015562</Data>
+      </PropertyData>
+      <PropertyData property="Compressive Modulus, L">
+        <Data format="exponential">77.2212883625767</Data>
+      </PropertyData>
+      <PropertyData property="Ultimate Shear Strength, L">
+        <Data format="exponential">317.158862917726</Data>
+      </PropertyData>
+      <PropertyData property="Ultimate Shear Strength, LT">
+        <Data format="exponential">303.369347138694</Data>
+      </PropertyData>
+      <PropertyData property="Shear Modulus, L">
+        <Data format="exponential">28.2685073470147</Data>
+      </PropertyData>
+      <PropertyData property="Bearing Ultimate Strength (e/D=1.5), L">
+        <Data format="exponential">758.423367846736</Data>
+      </PropertyData>
+      <PropertyData property="Bearing Ultimate Strength (e/D=1.5), LT">
+        <Data format="exponential">779.107641515283</Data>
+      </PropertyData>
+      <PropertyData property="Bearing Ultimate Strength (e/D=2.0), L">
+        <Data format="exponential">992.845136090272</Data>
+      </PropertyData>
+      <PropertyData property="Bearing Ultimate Strength (e/D=2.0), LT">
+        <Data format="exponential">1013.52940975882</Data>
+      </PropertyData>
+      <PropertyData property="Bearing Yield Strength (e/D=1.5), L">
+        <Data format="exponential">634.317725835452</Data>
+      </PropertyData>
+      <PropertyData property="Bearing Yield Strength (e/D=1.5), LT">
+        <Data format="exponential">648.107241614483</Data>
+      </PropertyData>
+      <PropertyData property="Bearing Yield Strength (e/D=2.0), L">
+        <Data format="exponential">758.423367846736</Data>
+      </PropertyData>
+      <PropertyData property="Bearing Yield Strength (e/D=2.0), LT">
+        <Data format="exponential">730.844336288673</Data>
+      </PropertyData>
+      <PropertyData property="Specific Heat with Temp.">
+        <Data format="string">
+</Data>
+      </PropertyData>
+    </BulkDetails>
+  </Material>
+  <Material>
+    <BulkDetails>
+      <Name>2050, T852, Die Forging, Thickness: 2 to 3.001 in, AMS 4357</Name>
+      <PropertyData property="Approval Status">
+        <Data format="string">MP USER, MMU</Data>
+      </PropertyData>
+      <PropertyData property="Material Type">
+        <Data format="string">Aluminum</Data>
+      </PropertyData>
+      <PropertyData property="Alloy Type">
+        <Data format="string">2000 Series Wrought Alloys</Data>
+      </PropertyData>
+      <PropertyData property="Grade Type">
+        <Data format="string">2050</Data>
+      </PropertyData>
+      <PropertyData property="Heat Treatment">
+        <Data format="string">T852</Data>
+      </PropertyData>
+      <PropertyData property="Available Form">
+        <Data format="string">Die Forging</Data>
+      </PropertyData>
+      <PropertyData property="Thickness">
+        <Data format="string">50.8≤x&lt;76.225 mm</Data>
+      </PropertyData>
+      <PropertyData property="Material Specification">
+        <Data format="string">AMS 4357</Data>
+      </PropertyData>
+      <PropertyData property="Density">
+        <Data format="exponential">2.71263066159991</Data>
+      </PropertyData>
+      <PropertyData property="Coefficient of Thermal Expansion">
+        <Data format="exponential">2.1618E-05</Data>
+      </PropertyData>
+      <PropertyData property="Specific Heat">
+        <Data format="exponential">0.879231456208136</Data>
+      </PropertyData>
+    </BulkDetails>
+  </Material>
+  <Material>
+    <BulkDetails>
+      <Name>2050, T852, Die Forging, Thickness: 2 to 3.001 in, AMS 4357, B Basis</Name>
+      <PropertyData property="Approval Status">
+        <Data format="string">MP USER, MMU</Data>
+      </PropertyData>
+      <PropertyData property="Material Type">
+        <Data format="string">Aluminum</Data>
+      </PropertyData>
+      <PropertyData property="Alloy Type">
+        <Data format="string">2000 Series Wrought Alloys</Data>
+      </PropertyData>
+      <PropertyData property="Grade Type">
+        <Data format="string">2050</Data>
+      </PropertyData>
+      <PropertyData property="Heat Treatment">
+        <Data format="string">T852</Data>
+      </PropertyData>
+      <PropertyData property="Available Form">
+        <Data format="string">Die Forging</Data>
+      </PropertyData>
+      <PropertyData property="Thickness">
+        <Data format="string">50.8≤x&lt;76.225 mm</Data>
+      </PropertyData>
+      <PropertyData property="Material Specification">
+        <Data format="string">AMS 4357</Data>
+      </PropertyData>
+      <PropertyData property="Density">
+        <Data format="exponential">2.71263066159991</Data>
+      </PropertyData>
+      <PropertyData property="Coefficient of Thermal Expansion">
+        <Data format="exponential">2.1618E-05</Data>
+      </PropertyData>
+      <PropertyData property="Specific Heat">
+        <Data format="exponential">0.879231456208136</Data>
+      </PropertyData>
+      <PropertyData property="Statistical Basis">
+        <Data format="string">B basis</Data>
+      </PropertyData>
+      <PropertyData property="Tensile Ultimate Strength, L">
+        <Data format="exponential">524.001599603199</Data>
+      </PropertyData>
+      <PropertyData property="Tensile Ultimate Strength, LT">
+        <Data format="exponential">524.001599603199</Data>
+      </PropertyData>
+      <PropertyData property="Tensile Ultimate Strength, ST">
+        <Data format="exponential">517.106841713683</Data>
+      </PropertyData>
+      <PropertyData property="Tensile Yield Strength, L">
+        <Data format="exponential">482.633052266105</Data>
+      </PropertyData>
+      <PropertyData property="Tensile Yield Strength, LT">
+        <Data format="exponential">482.633052266105</Data>
+      </PropertyData>
+      <PropertyData property="Tensile Yield Strength, ST">
+        <Data format="exponential">448.159262818526</Data>
+      </PropertyData>
+      <PropertyData property="% Elongation (4D), L">
+        <Data format="exponential">8</Data>
+      </PropertyData>
+      <PropertyData property="% Elongation (4D), LT">
+        <Data format="exponential">6</Data>
+      </PropertyData>
+      <PropertyData property="% Elongation (4D), ST">
+        <Data format="exponential">3</Data>
+      </PropertyData>
+      <PropertyData property="Tensile Modulus, L">
+        <Data format="exponential">75.8423367846736</Data>
+      </PropertyData>
+      <PropertyData property="Poisson’s Ratio">
+        <Data format="exponential">0.33</Data>
+      </PropertyData>
+      <PropertyData property="Compressive Yield Strength, L">
+        <Data format="exponential">496.422568045136</Data>
+      </PropertyData>
+      <PropertyData property="Compressive Yield Strength, LT">
+        <Data format="exponential">510.212083824168</Data>
+      </PropertyData>
+      <PropertyData property="Compressive Yield Strength, ST">
+        <Data format="exponential">496.422568045136</Data>
+      </PropertyData>
+      <PropertyData property="Compressive Modulus, L">
+        <Data format="exponential">77.2212883625767</Data>
+      </PropertyData>
+      <PropertyData property="Ultimate Shear Strength, L">
+        <Data format="exponential">324.053620807242</Data>
+      </PropertyData>
+      <PropertyData property="Ultimate Shear Strength, LT">
+        <Data format="exponential">310.26410502821</Data>
+      </PropertyData>
+      <PropertyData property="Shear Modulus, L">
+        <Data format="exponential">28.2685073470147</Data>
+      </PropertyData>
+      <PropertyData property="Bearing Ultimate Strength (e/D=1.5), L">
+        <Data format="exponential">779.107641515283</Data>
+      </PropertyData>
+      <PropertyData property="Bearing Ultimate Strength (e/D=1.5), LT">
+        <Data format="exponential">799.79191518383</Data>
+      </PropertyData>
+      <PropertyData property="Bearing Ultimate Strength (e/D=2.0), L">
+        <Data format="exponential">1020.42416764834</Data>
+      </PropertyData>
+      <PropertyData property="Bearing Ultimate Strength (e/D=2.0), LT">
+        <Data format="exponential">1041.10844131688</Data>
+      </PropertyData>
+      <PropertyData property="Bearing Yield Strength (e/D=1.5), L">
+        <Data format="exponential">655.001999503999</Data>
+      </PropertyData>
+      <PropertyData property="Bearing Yield Strength (e/D=1.5), LT">
+        <Data format="exponential">668.791515283031</Data>
+      </PropertyData>
+      <PropertyData property="Bearing Yield Strength (e/D=2.0), L">
+        <Data format="exponential">779.107641515283</Data>
+      </PropertyData>
+      <PropertyData property="Bearing Yield Strength (e/D=2.0), LT">
+        <Data format="exponential">758.423367846736</Data>
+      </PropertyData>
+      <PropertyData property="Specific Heat with Temp.">
+        <Data format="string">
+</Data>
+      </PropertyData>
+    </BulkDetails>
+  </Material>
+  <Material>
+    <BulkDetails>
+      <Name>1050, H18, Strip, Thickness: 0.200 mm, AMS 5085, S Basis</Name>
+      <PropertyData property="Approval Status">
+        <Data format="string">MP USER, UYDU</Data>
+      </PropertyData>
+      <PropertyData property="Material Type">
+        <Data format="string">Aluminum</Data>
+      </PropertyData>
+      <PropertyData property="Alloy Type">
+        <Data format="string">1000 Series Wrought Alloys</Data>
+      </PropertyData>
+      <PropertyData property="Grade Type">
+        <Data format="string">1050</Data>
+      </PropertyData>
+      <PropertyData property="Heat Treatment">
+        <Data format="string">H18</Data>
+      </PropertyData>
+      <PropertyData property="Available Form">
+        <Data format="string">Strip</Data>
+      </PropertyData>
+      <PropertyData property="Thickness">
+        <Data format="string">0.200 mm</Data>
+      </PropertyData>
+      <PropertyData property="Material Specification">
+        <Data format="string">AMS 5085</Data>
+      </PropertyData>
+      <PropertyData property="Density">
+        <Data format="exponential">2.71</Data>
+      </PropertyData>
+      <PropertyData property="Statistical Basis">
+        <Data format="string">S basis</Data>
+      </PropertyData>
+    </BulkDetails>
+  </Material>
+  <Material>
+    <BulkDetails>
+      <Name>1050, H18, Strip, Thickness: 0.200 mm, AMS 5085</Name>
+      <PropertyData property="Approval Status">
+        <Data format="string">MP USER, UYDU</Data>
+      </PropertyData>
+      <PropertyData property="Material Type">
+        <Data format="string">Aluminum</Data>
+      </PropertyData>
+      <PropertyData property="Alloy Type">
+        <Data format="string">1000 Series Wrought Alloys</Data>
+      </PropertyData>
+      <PropertyData property="Grade Type">
+        <Data format="string">1050</Data>
+      </PropertyData>
+      <PropertyData property="Heat Treatment">
+        <Data format="string">H18</Data>
+      </PropertyData>
+      <PropertyData property="Available Form">
+        <Data format="string">Strip</Data>
+      </PropertyData>
+      <PropertyData property="Thickness">
+        <Data format="string">0.200 mm</Data>
+      </PropertyData>
+      <PropertyData property="Material Specification">
+        <Data format="string">AMS 5085</Data>
+      </PropertyData>
+      <PropertyData property="Density">
+        <Data format="exponential">2.71</Data>
+      </PropertyData>
+    </BulkDetails>
+  </Material>
+  <Metadata>
+    <PropertyDetails id="Approval Status" type="">
+      <Name>Approval Status</Name>
+      <Units name="UNITLESS">
+        <Unitless />
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Material Type" type="">
+      <Name>Material Type</Name>
+      <Units name="UNITLESS">
+        <Unitless />
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Alloy Type" type="">
+      <Name>Alloy Type</Name>
+      <Units name="UNITLESS">
+        <Unitless />
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Grade Type" type="">
+      <Name>Grade Type</Name>
+      <Units name="UNITLESS">
+        <Unitless />
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Heat Treatment" type="">
+      <Name>Heat Treatment</Name>
+      <Units name="UNITLESS">
+        <Unitless />
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Available Form" type="">
+      <Name>Available Form</Name>
+      <Units name="UNITLESS">
+        <Unitless />
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Thickness" type="">
+      <Name>Thickness</Name>
+      <Units name="UNITLESS">
+        <Unitless />
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Material Specification" type="">
+      <Name>Material Specification</Name>
+      <Units name="UNITLESS">
+        <Unitless />
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Density" type="">
+      <Name>Density</Name>
+      <Units name="g/cm^3">
+        <Unit>
+          <Name>g/cm^3</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Coefficient of Thermal Expansion" type="">
+      <Name>Coefficient of Thermal Expansion</Name>
+      <Units name="strain/°C">
+        <Unit>
+          <Name>strain/°C</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Specific Heat" type="">
+      <Name>Specific Heat</Name>
+      <Units name="kJ/kg.°C">
+        <Unit>
+          <Name>kJ/kg.°C</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Thermal Conductivity" type="">
+      <Name>Thermal Conductivity</Name>
+      <Units name="W/m.°C">
+        <Unit>
+          <Name>W/m.°C</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Statistical Basis" type="">
+      <Name>Statistical Basis</Name>
+      <Units name="UNITLESS">
+        <Unitless />
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Tensile Ultimate Strength, L" type="">
+      <Name>Tensile Ultimate Strength, L</Name>
+      <Units name="MPa">
+        <Unit>
+          <Name>MPa</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Tensile Ultimate Strength, LT" type="">
+      <Name>Tensile Ultimate Strength, LT</Name>
+      <Units name="MPa">
+        <Unit>
+          <Name>MPa</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Tensile Ultimate Strength, ST" type="">
+      <Name>Tensile Ultimate Strength, ST</Name>
+      <Units name="MPa">
+        <Unit>
+          <Name>MPa</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Tensile Yield Strength, L" type="">
+      <Name>Tensile Yield Strength, L</Name>
+      <Units name="MPa">
+        <Unit>
+          <Name>MPa</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Tensile Yield Strength, LT" type="">
+      <Name>Tensile Yield Strength, LT</Name>
+      <Units name="MPa">
+        <Unit>
+          <Name>MPa</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Tensile Yield Strength, ST" type="">
+      <Name>Tensile Yield Strength, ST</Name>
+      <Units name="MPa">
+        <Unit>
+          <Name>MPa</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="% Elongation (4D), L" type="">
+      <Name>% Elongation (4D), L</Name>
+      <Units name="%">
+        <Unit>
+          <Name>%</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="% Elongation (4D), LT" type="">
+      <Name>% Elongation (4D), LT</Name>
+      <Units name="%">
+        <Unit>
+          <Name>%</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="% Elongation (4D), ST" type="">
+      <Name>% Elongation (4D), ST</Name>
+      <Units name="%">
+        <Unit>
+          <Name>%</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Tensile Modulus, L" type="">
+      <Name>Tensile Modulus, L</Name>
+      <Units name="GPa">
+        <Unit>
+          <Name>GPa</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Poisson’s Ratio" type="">
+      <Name>Poisson’s Ratio</Name>
+      <Units name="UNITLESS">
+        <Unitless />
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Compressive Yield Strength, L" type="">
+      <Name>Compressive Yield Strength, L</Name>
+      <Units name="MPa">
+        <Unit>
+          <Name>MPa</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Compressive Yield Strength, LT" type="">
+      <Name>Compressive Yield Strength, LT</Name>
+      <Units name="MPa">
+        <Unit>
+          <Name>MPa</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Compressive Yield Strength, ST" type="">
+      <Name>Compressive Yield Strength, ST</Name>
+      <Units name="MPa">
+        <Unit>
+          <Name>MPa</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Compressive Modulus, L" type="">
+      <Name>Compressive Modulus, L</Name>
+      <Units name="GPa">
+        <Unit>
+          <Name>GPa</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Ultimate Shear Strength, L" type="">
+      <Name>Ultimate Shear Strength, L</Name>
+      <Units name="MPa">
+        <Unit>
+          <Name>MPa</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Ultimate Shear Strength, LT" type="">
+      <Name>Ultimate Shear Strength, LT</Name>
+      <Units name="MPa">
+        <Unit>
+          <Name>MPa</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Ultimate Shear Strength, ST" type="">
+      <Name>Ultimate Shear Strength, ST</Name>
+      <Units name="MPa">
+        <Unit>
+          <Name>MPa</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Shear Modulus, L" type="">
+      <Name>Shear Modulus, L</Name>
+      <Units name="GPa">
+        <Unit>
+          <Name>GPa</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Bearing Ultimate Strength (e/D=1.5), L" type="">
+      <Name>Bearing Ultimate Strength (e/D=1.5), L</Name>
+      <Units name="MPa">
+        <Unit>
+          <Name>MPa</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Bearing Ultimate Strength (e/D=1.5), LT" type="">
+      <Name>Bearing Ultimate Strength (e/D=1.5), LT</Name>
+      <Units name="MPa">
+        <Unit>
+          <Name>MPa</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Bearing Ultimate Strength (e/D=2.0), L" type="">
+      <Name>Bearing Ultimate Strength (e/D=2.0), L</Name>
+      <Units name="MPa">
+        <Unit>
+          <Name>MPa</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Bearing Ultimate Strength (e/D=2.0), LT" type="">
+      <Name>Bearing Ultimate Strength (e/D=2.0), LT</Name>
+      <Units name="MPa">
+        <Unit>
+          <Name>MPa</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Bearing Yield Strength (e/D=1.5), L" type="">
+      <Name>Bearing Yield Strength (e/D=1.5), L</Name>
+      <Units name="MPa">
+        <Unit>
+          <Name>MPa</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Bearing Yield Strength (e/D=1.5), LT" type="">
+      <Name>Bearing Yield Strength (e/D=1.5), LT</Name>
+      <Units name="MPa">
+        <Unit>
+          <Name>MPa</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Bearing Yield Strength (e/D=2.0), L" type="">
+      <Name>Bearing Yield Strength (e/D=2.0), L</Name>
+      <Units name="MPa">
+        <Unit>
+          <Name>MPa</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Bearing Yield Strength (e/D=2.0), LT" type="">
+      <Name>Bearing Yield Strength (e/D=2.0), LT</Name>
+      <Units name="MPa">
+        <Unit>
+          <Name>MPa</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Plane Strain Fracture Toughness, K1C, T-L" type="">
+      <Name>Plane Strain Fracture Toughness, K1C, T-L</Name>
+      <Units name="MPa.m^0.5">
+        <Unit>
+          <Name>MPa.m^0.5</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Plane Strain Fracture Toughness, K1C, L-T" type="">
+      <Name>Plane Strain Fracture Toughness, K1C, L-T</Name>
+      <Units name="MPa.m^0.5">
+        <Unit>
+          <Name>MPa.m^0.5</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Plane Strain Fracture Toughness, K1C, S-L" type="">
+      <Name>Plane Strain Fracture Toughness, K1C, S-L</Name>
+      <Units name="MPa.m^0.5">
+        <Unit>
+          <Name>MPa.m^0.5</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Elongation (L-dir) with Exp. Temp." type="">
+      <Name>Elongation (L-dir) with Exp. Temp.</Name>
+      <Units name="%">
+        <Unit>
+          <Name>%</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Compressive Stress vs Tangent Modulus, L" type="">
+      <Name>Compressive Stress vs Tangent Modulus, L</Name>
+      <Units name="MPa">
+        <Unit>
+          <Name>MPa</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+    <PropertyDetails id="Specific Heat with Temp." type="">
+      <Name>Specific Heat with Temp.</Name>
+      <Units name="kJ/kg.°C">
+        <Unit>
+          <Name>kJ/kg.°C</Name>
+        </Unit>
+      </Units>
+    </PropertyDetails>
+  </Metadata>
+</MatML_Doc>

@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FEAExport xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" decimalSeparator="." xmlns="http://www.grantadesign.com/Granta-MI/exports">
+  <definitions>
+    <info exporter="Exporter-NX-Composites-Template-Prepreg" model="Metal" version="22.1.0.0" numberOfRecords="3">
+      <table>Design Data: Approved</table>
+      <date>2023-08-01T10:58:04.7843172+03:00</date>
+      <UnitSystem>Metric</UnitSystem>
+      <UnitScale>Relative</UnitScale>
+      <user>DMNTAI\t24455</user>
+      <databaseKey>MI_Metals_Template</databaseKey>
+    </info>
+    <parameters>
+      <parameter>
+        <details id="Parameter_40_Other_x0020_information">
+          <Name>Other information</Name>
+          <Unitless />
+          <parameterValues>
+            <parameterValue id="P90e94c5c-ce7b-4988-a834-e2fc7c161789" name="0.20C mod" value="2" />
+            <parameterValue id="P94337d85-3c74-40b8-b65b-12ad01eba18b" name="H1150" value="3" />
+            <parameterValue id="P42f1c2aa-ca2b-4e6b-a158-5f202c79e1aa" name="H1150M" value="4" />
+            <parameterValue id="P4fce3926-a4a0-479b-b208-dba0506634af" name="Bar 3.75in thick 5.25in wide" value="5" />
+            <parameterValue id="P8da5f060-8a82-48d5-aa48-388f619ad269" name="Billet" value="6" />
+            <parameterValue id="P6944a2d2-b2f4-4753-b287-7d9708a827c9" name="Plate" value="7" />
+            <parameterValue id="P2c47b64d-fa1f-41b2-9f95-e9bf3ee1d5f2" name="TL direction" value="8" />
+            <parameterValue id="P4fc7d49f-c216-4bb5-b403-649cec9cbab0" name="L direction" value="9" />
+            <parameterValue id="P463739a7-aa2c-41b9-9f4f-93c9dff8f525" name="LT direction" value="1" />
+            <parameterValue id="P0028f5fe-8cb9-42d4-9611-54a8d0fc948c" name="Thickness: 0.125&quot; and over" value="10" />
+            <parameterValue id="P208fc892-0961-4b9e-92b4-1431a4c6214b" name="Thickness: all" value="11" />
+            <parameterValue id="Pba8e062b-4c74-4456-bf8a-54409fff2755" name="Thickness: 0 to 1.5&quot;" value="12" />
+            <parameterValue id="Pbfb60d74-c8a4-4878-bbab-d6fa575e046b" name="Thickness: 0 to 2&quot;" value="13" />
+            <parameterValue id="P13bdc8ac-74ff-4d54-b01c-76d2795bea8d" name="Thickness: 0.005&quot;" value="14" />
+            <parameterValue id="P89d2a96d-0748-40b7-8618-7486a3af9d08" name="Thickness: 0.01 to 0.249&quot;" value="15" />
+            <parameterValue id="Pcd99179a-9178-403a-b41c-a178cbf2e33a" name="Thickness: 0.02 to 0.08&quot;" value="16" />
+            <parameterValue id="P044bc818-b919-441f-a291-84dc03964fe3" name="Thickness: 0.032 to 0.125&quot;" value="19" />
+            <parameterValue id="P34442005-0878-4f43-84b0-005724e77902" name="Thickness: 0.05 to 1.351&quot;" value="20" />
+            <parameterValue id="Pda5a5095-eb86-4121-8ce5-af28e80e023b" name="Thickness: 0.188 to 1.5&quot;" value="21" />
+            <parameterValue id="Pbcd75c37-32db-4398-a35b-e9964fdaca68" name="Thickness: 0.19 to 0.5&quot;" value="22" />
+            <parameterValue id="Pc3dd4d66-64f5-4281-a143-0409ee0c8dd3" name="Thickness: 0.25 to 1&quot;" value="18" />
+            <parameterValue id="P123e00d0-983e-4ef0-a094-c6542d15c372" name="Thickness: 0.25 to 1.5&quot;" value="17" />
+            <parameterValue id="Pf5f57d49-9bd0-4284-941c-cfcc661fdb32" name="Thickness: 0.34 to 1.351&quot;" value="23" />
+            <parameterValue id="Paaaa4d59-4288-4fde-a5b6-b1da0f2739e4" name="Thickness: 0.44 to 0.941&quot;" value="24" />
+            <parameterValue id="P1b00c28c-3f50-4116-9afd-2c9668d263eb" name="Thickness: 0.44 to 1.351&quot;" value="25" />
+            <parameterValue id="P53c1da41-95f2-47f3-9a4a-128377245051" name="Thickness: 0.5&quot;" value="26" />
+            <parameterValue id="P6e0dee92-d7aa-4052-972e-f9e7b1d4176c" name="Thickness: 0.5 to 1&quot;" value="27" />
+            <parameterValue id="P792118a8-df4f-4f03-a17d-7e6cc637bc50" name="Thickness: 0.5 to 1.5&quot;" value="28" />
+            <parameterValue id="Pa1022131-854b-4e98-88c2-638056cbcbcb" name="Thickness: 0.5 to 2&quot;" value="29" />
+            <parameterValue id="P6f1b1ba0-0fc6-4e56-8603-5fe505aa33aa" name="Thickness: 0.75 to 2&quot;" value="30" />
+            <parameterValue id="P9c37964e-428c-40d3-8c90-3a2600bde975" name="Thickness: 1&quot;" value="31" />
+            <parameterValue id="P5cc26609-308d-4e4a-83a6-a5e9f7346199" name="Thickness: 1 to 1.501&quot;" value="32" />
+            <parameterValue id="P93764ac7-0761-4320-ae90-9e951bd53654" name="Thickness: 1 to 1.75&quot;" value="33" />
+            <parameterValue id="Pe730c7ac-63b4-47b8-8f2d-d5c25b0954d6" name="Thickness: 1 to 6&quot;" value="34" />
+            <parameterValue id="P2c1ace8d-6920-4446-add6-0253af5291b2" name="Thickness: 1.35 to 3.001&quot;" value="35" />
+            <parameterValue id="Pa60ab926-485e-45e4-a787-912d9339b8cb" name="Thickness: 1.5 to 3&quot;" value="36" />
+            <parameterValue id="P062acea8-84a2-4a5e-82a9-08de43badaaf" name="Thickness: 1.5 to 4&quot;" value="37" />
+            <parameterValue id="P2411a5cd-abd5-4850-9206-cf988da64fe6" name="Thickness: 1.501 to 4.001&quot;" value="38" />
+            <parameterValue id="Pcd044c3d-797a-4e7a-8446-ce7a07689578" name="Thickness: 2 to 4&quot;" value="39" />
+            <parameterValue id="P6281b300-5ca1-4322-b6d2-25f182f6b2ce" name="Thickness: 2 to 5&quot;" value="40" />
+            <parameterValue id="P3aadc3da-5d2a-48b3-9300-cad872798f36" name="Thickness: 2 to 6&quot;" value="41" />
+            <parameterValue id="P08428058-6eae-4065-bab6-2765d51d8349" name="Thickness: 2.56 to 6.1&quot;" value="42" />
+            <parameterValue id="Pdd7543a1-970a-4b59-9316-c096c85faf57" name="Thickness: 2.76  to 5.32&quot;" value="43" />
+            <parameterValue id="P5468b977-2032-4ca1-a859-b6c294e1591e" name="Thickness: 3&quot;" value="44" />
+            <parameterValue id="P5b909db1-7198-42de-a949-9217e715204b" name="Thickness: 3 to 3.001&quot;" value="45" />
+            <parameterValue id="P9062f852-13b7-40c9-b938-f1815e37dd69" name="Thickness: 4&quot;" value="46" />
+            <parameterValue id="Pb1c01f4c-3686-4b55-9d81-732b009860df" name="Thickness: 4 to 6&quot;" value="47" />
+            <parameterValue id="P3c497f65-347a-4fe8-8fd5-1bf513830ca0" name="Thickness: 4 to 7&quot;" value="48" />
+            <parameterValue id="Pcc820bae-e318-4e53-a074-f667fd4aabbe" name="Thickness: 4.25&quot;" value="49" />
+            <parameterValue id="P97d40e75-9d58-4324-9082-40441587079b" name="Thickness: 4.25 to 8.5&quot;" value="50" />
+            <parameterValue id="P6676a0d3-4e27-4acf-ad6f-a4edcf8b179d" name="Thickness: 6&quot;" value="51" />
+            <parameterValue id="P8a4b2820-cdf9-4d83-b7ce-a4d3afde61d8" name="Thickness: 6 to 8&quot;" value="52" />
+            <parameterValue id="P9ae758da-7bb3-4d7e-8a69-d676b6e6c699" name="Thickness: 6 to 10&quot;" value="53" />
+            <parameterValue id="P902f31b8-ff84-48f1-9184-59eed21238fc" name="Thickness: 6.5&quot;" value="54" />
+            <parameterValue id="P0519cbf3-92d3-438f-849b-55269280f9ce" name="Thickness: 7&quot;" value="55" />
+            <parameterValue id="P93b26fd6-ffb6-49db-a58b-3be5b8c14431" name="Thickness: 7 to 8&quot;" value="56" />
+            <parameterValue id="Pa12e766d-fa40-4806-9bba-d13886c3cf39" name="Thickness: 8&quot;" value="57" />
+            <parameterValue id="Pfbd14d36-d0ee-4c79-9eaa-b9c08e311be7" name="Thickness: 10 to12&quot;" value="58" />
+            <parameterValue id="P9f67798e-4357-44d9-8dbf-6c28d2bab6cb" name="Pre-exposure at 1500F for 2000 hrs." value="59" />
+            <parameterValue id="Pe720ec01-303f-48cd-a427-ee7f4c76bf21" name="All products" value="60" />
+            <parameterValue id="P27858c4d-f8f7-405c-8318-50f6c60be89c" name="This specification only" value="61" />
+            <parameterValue id="P2f6c0428-c998-40db-94fa-ee5b4928869f" name="Aspect ratio &lt;3.3" value="62" />
+            <parameterValue id="P3479b274-03ac-4cd3-9f26-39585b485e35" name="Aspect ratio &gt;3.3" value="63" />
+          </parameterValues>
+        </details>
+      </parameter>
+      <parameter>
+        <details id="Parameter_12_Tangent_x0020_Modulus">
+          <Name>Tangent Modulus</Name>
+          <Units system="Metric" name="GPa" description="gigapascal">
+            <Unit>
+              <Name>GPa</Name>
+            </Unit>
+          </Units>
+          <parameterValues>
+            <parameterValue id="P7927c017-963e-45d2-ac03-b1ca93e98737" value="0" />
+            <parameterValue id="Pf1f50cb4-6bd4-45af-a8ef-668914f4ce98" value="41.3685473370947" />
+            <parameterValue id="P12aa7450-df28-475d-89bf-4d76a83f75ce" value="75.8423367846736" />
+          </parameterValues>
+        </details>
+      </parameter>
+      <parameter>
+        <details id="Parameter_7_Time">
+          <Name>Time</Name>
+          <Units system="Metric" name="hr" description="hour">
+            <Unit>
+              <Name>hr</Name>
+            </Unit>
+          </Units>
+          <parameterValues>
+            <parameterValue id="P93a97848-ba82-426b-91e5-7fbfc37643f3" value="0.5" />
+            <parameterValue id="P9a9c6f8b-bce7-4c3e-94ff-dbd87d098825" value="10" />
+            <parameterValue id="P49c8bee0-4a79-48ac-9103-4432be0d5214" value="100" />
+            <parameterValue id="P7f690b7a-c572-4f99-9f47-a546592c0005" value="1000" />
+            <parameterValue id="P93fe98e7-bc6d-43c6-ae38-1ef4f4d79c07" value="10000" />
+          </parameterValues>
+        </details>
+      </parameter>
+      <parameter>
+        <details id="Parameter_8_Temperature">
+          <Name>Temperature</Name>
+          <Units system="Metric" name="°C" description="Temperature (Kelvin/Celsius)">
+            <Unit>
+              <Name>°C</Name>
+            </Unit>
+          </Units>
+          <parameterValues>
+            <parameterValue id="Pf07be4ef-8361-498c-a22c-4ffe98b10785" value="21.11111111" />
+            <parameterValue id="Pe43360c3-e9de-4803-9e8b-030ebec7bb75" value="23.88888889" />
+            <parameterValue id="P08dad6f8-7ee5-4c5b-af9c-57e57fe21fa0" value="26.66666667" />
+            <parameterValue id="Pefb84c64-3639-424c-873c-3405ace843b5" value="204.44444444" />
+            <parameterValue id="P0578527e-d80a-45ee-8e2f-d4617a1a518b" value="315.55555556" />
+            <parameterValue id="P755728a1-5a51-47ea-9570-a9a51bd1aa52" value="426.66666667" />
+            <parameterValue id="Pf1842155-86ba-475d-89e0-8ae8af9b58ab" value="537.77777778" />
+          </parameterValues>
+        </details>
+      </parameter>
+    </parameters>
+    <attributes>
+      <attribute id="Attr_Approval_x0020_Status_14966" CESAttributeType="discrete">
+        <Name>Approval Status</Name>
+        <Unitless />
+        <discreteType id="Pdb5e028d-885e-42a9-b74e-69d880151783" name="Approval Status" />
+      </attribute>
+      <attribute id="Attr_Material_x0020_Type_15077" CESAttributeType="discrete">
+        <Name>Material Type</Name>
+        <Unitless />
+        <discreteType id="Pd26e2b22-a565-4243-b673-973c8223dd2e" name="Material Type" />
+      </attribute>
+      <attribute id="Attr_Alloy_x0020_Type_14965" CESAttributeType="discrete">
+        <Name>Alloy Type</Name>
+        <Unitless />
+        <discreteType id="P30f021cc-02b5-4ab7-97b1-fdcca3ce4ddd" name="Alloy Type" />
+      </attribute>
+      <attribute id="Attr_Grade_x0020_Type_16360" CESAttributeType="shortText">
+        <Name>Grade Type</Name>
+        <Unitless />
+      </attribute>
+      <attribute id="Attr_Heat_x0020_Treatment_15073" CESAttributeType="discrete">
+        <Name>Heat Treatment</Name>
+        <Unitless />
+        <discreteType id="P720b9e1b-abce-4b08-9513-f2261933b678" name="Heat Treatment" />
+      </attribute>
+      <attribute id="Attr_Available_x0020_Form_16853" CESAttributeType="shortText">
+        <Name>Available Form</Name>
+        <Unitless />
+      </attribute>
+      <attribute id="Attr_Thickness_16363" CESAttributeType="shortText">
+        <Name>Thickness</Name>
+        <Unitless />
+      </attribute>
+      <attribute id="Attr_Material_x0020_Specification_15076" CESAttributeType="shortText">
+        <Name>Material Specification</Name>
+        <Unitless />
+      </attribute>
+      <attribute id="Attr_Density_15705" CESAttributeType="point">
+        <Name>Density</Name>
+        <Units system="Metric" name="g/cm^3" description="g/cm^3">
+          <Unit>
+            <Name>g/cm^3</Name>
+          </Unit>
+        </Units>
+      </attribute>
+      <attribute id="Attr_Coefficient_x0020_of_x0020_Thermal_x0020_Expansion_15662" CESAttributeType="point">
+        <Name>Coefficient of Thermal Expansion</Name>
+        <Units system="Metric" name="strain/°C" description="strain/°C">
+          <Unit>
+            <Name>strain/°C</Name>
+          </Unit>
+        </Units>
+      </attribute>
+      <attribute id="Attr_Specific_x0020_Heat_15997" CESAttributeType="point">
+        <Name>Specific Heat</Name>
+        <Units system="Metric" name="kJ/kg.°C" description="kJ/kg.°C">
+          <Unit>
+            <Name>kJ/kg.°C</Name>
+          </Unit>
+        </Units>
+      </attribute>
+      <attribute id="Attr_Thermal_x0020_Conductivity_16094" CESAttributeType="point">
+        <Name>Thermal Conductivity</Name>
+        <Units system="Metric" name="W/m.°C" description="W/m.°C">
+          <Unit>
+            <Name>W/m.°C</Name>
+          </Unit>
+        </Units>
+      </attribute>
+      <attribute id="Attr_Statistical_x0020_Basis_15128" CESAttributeType="discrete">
+        <Name>Statistical Basis</Name>
+        <Unitless />
+        <discreteType id="P790eb88f-4d76-4702-a87a-ea9875325f62" name="Statistical Basis" />
+      </attribute>
+      <attribute id="Attr_Tensile_x0020_Ultimate_x0020_Strength_x002C__x0020_L_16022" CESAttributeType="point">
+        <Name>Tensile Ultimate Strength, L</Name>
+        <Units system="Metric" name="MPa" description="megapascal">
+          <Unit>
+            <Name>MPa</Name>
+          </Unit>
+        </Units>
+      </attribute>
+      <attribute id="Attr_Tensile_x0020_Ultimate_x0020_Strength_x002C__x0020_LT_16040" CESAttributeType="point">
+        <Name>Tensile Ultimate Strength, LT</Name>
+        <Units system="Metric" name="MPa" description="megapascal">
+          <Unit>
+            <Name>MPa</Name>
+          </Unit>
+        </Units>
+      </attribute>
+      <attribute id="Attr_Tensile_x0020_Ultimate_x0020_Strength_x002C__x0020_ST_16052" CESAttributeType="point">
+        <Name>Tensile Ultimate Strength, ST</Name>
+        <Units system="Metric" name="MPa" description="megapascal">
+          <Unit>
+            <Name>MPa</Name>
+          </Unit>
+        </Units>
+      </attribute>
+      <attribute id="Attr_Tensile_x0020_Yield_x0020_Strength_x002C__x0020_L_16058" CESAttributeType="point">
+        <Name>Tensile Yield Strength, L</Name>
+        <Units system="Metric" name="MPa" description="megapascal">
+          <Unit>
+            <Name>MPa</Name>
+          </Unit>
+        </Units>
+      </attribute>
+      <attribute id="Attr_Tensile_x0020_Yield_x0020_Strength_x002C__x0020_LT_16076" CESAttributeType="point">
+        <Name>Tensile Yield Strength, LT</Name>
+        <Units system="Metric" name="MPa" description="megapascal">
+          <Unit>
+            <Name>MPa</Name>
+          </Unit>
+        </Units>
+      </attribute>
+      <attribute id="Attr_Tensile_x0020_Yield_x0020_Strength_x002C__x0020_ST_16088" CESAttributeType="point">
+        <Name>Tensile Yield Strength, ST</Name>
+        <Units system="Metric" name="MPa" description="megapascal">
+          <Unit>
+            <Name>MPa</Name>
+          </Unit>
+        </Units>
+      </attribute>
+      <attribute id="Attr__x0025__x0020_Elongation_x0020__x0028_4D_x0029__x002C__x0020_L_15158" CESAttributeType="point">
+        <Name>% Elongation (4D), L</Name>
+        <Units system="Metric" name="%" description="%">
+          <Unit>
+            <Name>%</Name>
+          </Unit>
+        </Units>
+      </attribute>
+      <attribute id="Attr__x0025__x0020_Elongation_x0020__x0028_4D_x0029__x002C__x0020_LT_15176" CESAttributeType="point">
+        <Name>% Elongation (4D), LT</Name>
+        <Units system="Metric" name="%" description="%">
+          <Unit>
+            <Name>%</Name>
+          </Unit>
+        </Units>
+      </attribute>
+      <attribute id="Attr__x0025__x0020_Elongation_x0020__x0028_4D_x0029__x002C__x0020_ST_15188" CESAttributeType="point">
+        <Name>% Elongation (4D), ST</Name>
+        <Units system="Metric" name="%" description="%">
+          <Unit>
+            <Name>%</Name>
+          </Unit>
+        </Units>
+      </attribute>
+      <attribute id="Attr_Tensile_x0020_Modulus_x002C__x0020_L_16016" CESAttributeType="point">
+        <Name>Tensile Modulus, L</Name>
+        <Units system="Metric" name="GPa" description="gigapascal">
+          <Unit>
+            <Name>GPa</Name>
+          </Unit>
+        </Units>
+      </attribute>
+      <attribute id="Attr_Poisson_x2019_s_x0020_Ratio_15983" CESAttributeType="point">
+        <Name>Poisson’s Ratio</Name>
+        <Unitless />
+      </attribute>
+      <attribute id="Attr_Compressive_x0020_Yield_x0020_Strength_x002C__x0020_L_15669" CESAttributeType="point">
+        <Name>Compressive Yield Strength, L</Name>
+        <Units system="Metric" name="MPa" description="megapascal">
+          <Unit>
+            <Name>MPa</Name>
+          </Unit>
+        </Units>
+      </attribute>
+      <attribute id="Attr_Compressive_x0020_Yield_x0020_Strength_x002C__x0020_LT_15687" CESAttributeType="point">
+        <Name>Compressive Yield Strength, LT</Name>
+        <Units system="Metric" name="MPa" description="megapascal">
+          <Unit>
+            <Name>MPa</Name>
+          </Unit>
+        </Units>
+      </attribute>
+      <attribute id="Attr_Compressive_x0020_Yield_x0020_Strength_x002C__x0020_ST_15699" CESAttributeType="point">
+        <Name>Compressive Yield Strength, ST</Name>
+        <Units system="Metric" name="MPa" description="megapascal">
+          <Unit>
+            <Name>MPa</Name>
+          </Unit>
+        </Units>
+      </attribute>
+      <attribute id="Attr_Compressive_x0020_Modulus_x002C__x0020_L_15663" CESAttributeType="point">
+        <Name>Compressive Modulus, L</Name>
+        <Units system="Metric" name="GPa" description="gigapascal">
+          <Unit>
+            <Name>GPa</Name>
+          </Unit>
+        </Units>
+      </attribute>
+      <attribute id="Attr_Ultimate_x0020_Shear_x0020_Strength_x002C__x0020_L_16407" CESAttributeType="point">
+        <Name>Ultimate Shear Strength, L</Name>
+        <Units system="Metric" name="MPa" description="megapascal">
+          <Unit>
+            <Name>MPa</Name>
+          </Unit>
+        </Units>
+      </attribute>
+      <attribute id="Attr_Ultimate_x0020_Shear_x0020_Strength_x002C__x0020_LT_16125" CESAttributeType="point">
+        <Name>Ultimate Shear Strength, LT</Name>
+        <Units system="Metric" name="MPa" description="megapascal">
+          <Unit>
+            <Name>MPa</Name>
+          </Unit>
+        </Units>
+      </attribute>
+      <attribute id="Attr_Ultimate_x0020_Shear_x0020_Strength_x002C__x0020_ST_16149" CESAttributeType="point">
+        <Name>Ultimate Shear Strength, ST</Name>
+        <Units system="Metric" name="MPa" description="megapascal">
+          <Unit>
+            <Name>MPa</Name>
+          </Unit>
+        </Units>
+      </attribute>
+      <attribute id="Attr_Shear_x0020_Modulus_x002C__x0020_L_15991" CESAttributeType="point">
+        <Name>Shear Modulus, L</Name>
+        <Units system="Metric" name="GPa" description="gigapascal">
+          <Unit>
+            <Name>GPa</Name>
+          </Unit>
+        </Units>
+      </attribute>
+      <attribute id="Attr_Bearing_x0020_Ultimate_x0020_Strength_x0020__x0028_e_x002F_D_x003D_1.5_x0029__x002C__x0020_L_16364" CESAttributeType="point">
+        <Name>Bearing Ultimate Strength (e/D=1.5), L</Name>
+        <Units system="Metric" name="MPa" description="megapascal">
+          <Unit>
+            <Name>MPa</Name>
+          </Unit>
+        </Units>
+      </attribute>
+      <attribute id="Attr_Bearing_x0020_Ultimate_x0020_Strength_x0020__x0028_e_x002F_D_x003D_1.5_x0029__x002C__x0020_LT_15260" CESAttributeType="point">
+        <Name>Bearing Ultimate Strength (e/D=1.5), LT</Name>
+        <Units system="Metric" name="MPa" description="megapascal">
+          <Unit>
+            <Name>MPa</Name>
+          </Unit>
+        </Units>
+      </attribute>
+      <attribute id="Attr_Bearing_x0020_Ultimate_x0020_Strength_x0020__x0028_e_x002F_D_x003D_2.0_x0029__x002C__x0020_L_16371" CESAttributeType="point">
+        <Name>Bearing Ultimate Strength (e/D=2.0), L</Name>
+        <Units system="Metric" name="MPa" description="megapascal">
+          <Unit>
+            <Name>MPa</Name>
+          </Unit>
+        </Units>
+      </attribute>
+      <attribute id="Attr_Bearing_x0020_Ultimate_x0020_Strength_x0020__x0028_e_x002F_D_x003D_2.0_x0029__x002C__x0020_LT_15332" CESAttributeType="point">
+        <Name>Bearing Ultimate Strength (e/D=2.0), LT</Name>
+        <Units system="Metric" name="MPa" description="megapascal">
+          <Unit>
+            <Name>MPa</Name>
+          </Unit>
+        </Units>
+      </attribute>
+      <attribute id="Attr_Bearing_x0020_Yield_x0020_Strength_x0020__x0028_e_x002F_D_x003D_1.5_x0029__x002C__x0020_L_16386" CESAttributeType="point">
+        <Name>Bearing Yield Strength (e/D=1.5), L</Name>
+        <Units system="Metric" name="MPa" description="megapascal">
+          <Unit>
+            <Name>MPa</Name>
+          </Unit>
+        </Units>
+      </attribute>
+      <attribute id="Attr_Bearing_x0020_Yield_x0020_Strength_x0020__x0028_e_x002F_D_x003D_1.5_x0029__x002C__x0020_LT_15476" CESAttributeType="point">
+        <Name>Bearing Yield Strength (e/D=1.5), LT</Name>
+        <Units system="Metric" name="MPa" description="megapascal">
+          <Unit>
+            <Name>MPa</Name>
+          </Unit>
+        </Units>
+      </attribute>
+      <attribute id="Attr_Bearing_x0020_Yield_x0020_Strength_x0020__x0028_e_x002F_D_x003D_2.0_x0029__x002C__x0020_L_16393" CESAttributeType="point">
+        <Name>Bearing Yield Strength (e/D=2.0), L</Name>
+        <Units system="Metric" name="MPa" description="megapascal">
+          <Unit>
+            <Name>MPa</Name>
+          </Unit>
+        </Units>
+      </attribute>
+      <attribute id="Attr_Bearing_x0020_Yield_x0020_Strength_x0020__x0028_e_x002F_D_x003D_2.0_x0029__x002C__x0020_LT_15548" CESAttributeType="point">
+        <Name>Bearing Yield Strength (e/D=2.0), LT</Name>
+        <Units system="Metric" name="MPa" description="megapascal">
+          <Unit>
+            <Name>MPa</Name>
+          </Unit>
+        </Units>
+      </attribute>
+      <attribute id="Attr_Plane_x0020_Strain_x0020_Fracture_x0020_Toughness_x002C__x0020_K1C_x002C__x0020_T-L_15965" CESAttributeType="point">
+        <Name>Plane Strain Fracture Toughness, K1C, T-L</Name>
+        <Units system="Metric" name="MPa.m^0.5" description="MPa.m^0.5">
+          <Unit>
+            <Name>MPa.m^0.5</Name>
+          </Unit>
+        </Units>
+      </attribute>
+      <attribute id="Attr_Plane_x0020_Strain_x0020_Fracture_x0020_Toughness_x002C__x0020_K1C_x002C__x0020_L-T_15743" CESAttributeType="point">
+        <Name>Plane Strain Fracture Toughness, K1C, L-T</Name>
+        <Units system="Metric" name="MPa.m^0.5" description="MPa.m^0.5">
+          <Unit>
+            <Name>MPa.m^0.5</Name>
+          </Unit>
+        </Units>
+      </attribute>
+      <attribute id="Attr_Plane_x0020_Strain_x0020_Fracture_x0020_Toughness_x002C__x0020_K1C_x002C__x0020_S-L_15953" CESAttributeType="point">
+        <Name>Plane Strain Fracture Toughness, K1C, S-L</Name>
+        <Units system="Metric" name="MPa.m^0.5" description="MPa.m^0.5">
+          <Unit>
+            <Name>MPa.m^0.5</Name>
+          </Unit>
+        </Units>
+      </attribute>
+      <attribute id="Attr_Elongation_x0020__x0028_L-dir_x0029__x0020_with_x0020_Exp._x0020_Temp._16585" CESAttributeType="functional">
+        <Name>Elongation (L-dir) with Exp. Temp.</Name>
+        <Units system="Metric" name="%" description="%">
+          <Unit>
+            <Name>%</Name>
+          </Unit>
+        </Units>
+        <header outputAsPoint="true" graphOutputType="complexValue2">
+          <graphparam paramID="Parameter_8_Temperature" />
+          <graphparam paramID="Parameter_7_Time" />
+        </header>
+      </attribute>
+      <attribute id="Attr_Compressive_x0020_Stress_x0020_vs_x0020_Tangent_x0020_Modulus_x002C__x0020_L_16622" CESAttributeType="functional">
+        <Name>Compressive Stress vs Tangent Modulus, L</Name>
+        <Units system="Metric" name="MPa" description="megapascal">
+          <Unit>
+            <Name>MPa</Name>
+          </Unit>
+        </Units>
+        <header outputAsPoint="true" graphOutputType="complexValue2">
+          <graphparam paramID="Parameter_12_Tangent_x0020_Modulus" />
+          <graphparam paramID="Parameter_40_Other_x0020_information" />
+          <graphparam paramID="Parameter_8_Temperature" />
+          <graphparam paramID="Parameter_7_Time" />
+        </header>
+      </attribute>
+      <attribute id="Attr_Specific_x0020_Heat_x0020_with_x0020_Temp._16489" CESAttributeType="functional">
+        <Name>Specific Heat with Temp.</Name>
+        <Units system="Metric" name="kJ/kg.°C" description="kJ/kg.°C">
+          <Unit>
+            <Name>kJ/kg.°C</Name>
+          </Unit>
+        </Units>
+        <header outputAsPoint="true" graphOutputType="complexValue2">
+          <graphparam paramID="Parameter_8_Temperature" />
+          <graphparam paramID="Parameter_7_Time" />
+        </header>
+      </attribute>
+    </attributes>
+    <accessControlSchema />
+    <tableDetails name="Design Data: Approved" />
+    <volumeDetails name="TAI Metals" />
+  </definitions>
+  <data>
+    <records>
+      <record type="record" recordguid="db575c9c-0855-450a-a425-960112787f18" historyguid="14a7bc67-5f05-4832-bbd2-9a12d426279f" gruid="X0d9e0299-dc9d-4bdd-b8a1-5f6ace4b5e10" fullname="2050, T852, Die Forging, Thickness: 2 to 3.001 in, AMS 4357, A Basis" shortname="AMS 4357, A Basis" recordHistoryIdentity="146955" versionNumber="1">
+        <attributes>
+          <attribute attributeID="Attr_Approval_x0020_Status_14966">
+            <simpleValue>
+              <discrete>MP USER</discrete>
+              <discrete>MMU</discrete>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Material_x0020_Type_15077">
+            <simpleValue>
+              <discrete>Aluminum</discrete>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Alloy_x0020_Type_14965">
+            <simpleValue>
+              <discrete>2000 Series Wrought Alloys</discrete>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Grade_x0020_Type_16360">
+            <simpleValue>
+              <shorttext>2050</shorttext>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Heat_x0020_Treatment_15073">
+            <simpleValue>
+              <discrete>T852</discrete>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Available_x0020_Form_16853">
+            <simpleValue>
+              <shorttext>Die Forging</shorttext>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Thickness_16363">
+            <simpleValue>
+              <shorttext>50.8≤x&lt;76.225 mm</shorttext>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Material_x0020_Specification_15076">
+            <simpleValue>
+              <shorttext>AMS 4357</shorttext>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Density_15705">
+            <simpleValue>
+              <point>2.71263066159991</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Coefficient_x0020_of_x0020_Thermal_x0020_Expansion_15662">
+            <simpleValue>
+              <point>2.1618E-05</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Specific_x0020_Heat_15997">
+            <simpleValue>
+              <point>0.879231456208136</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Statistical_x0020_Basis_15128">
+            <simpleValue>
+              <discrete>A basis</discrete>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Tensile_x0020_Ultimate_x0020_Strength_x002C__x0020_L_16022">
+            <simpleValue>
+              <point>510.212083824168</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Tensile_x0020_Ultimate_x0020_Strength_x002C__x0020_LT_16040">
+            <simpleValue>
+              <point>510.212083824168</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Tensile_x0020_Ultimate_x0020_Strength_x002C__x0020_ST_16052">
+            <simpleValue>
+              <point>503.317325934652</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Tensile_x0020_Yield_x0020_Strength_x002C__x0020_L_16058">
+            <simpleValue>
+              <point>468.843536487073</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Tensile_x0020_Yield_x0020_Strength_x002C__x0020_LT_16076">
+            <simpleValue>
+              <point>468.843536487073</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Tensile_x0020_Yield_x0020_Strength_x002C__x0020_ST_16088">
+            <simpleValue>
+              <point>441.26450492901</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr__x0025__x0020_Elongation_x0020__x0028_4D_x0029__x002C__x0020_L_15158">
+            <simpleValue>
+              <point>8</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr__x0025__x0020_Elongation_x0020__x0028_4D_x0029__x002C__x0020_LT_15176">
+            <simpleValue>
+              <point>6</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr__x0025__x0020_Elongation_x0020__x0028_4D_x0029__x002C__x0020_ST_15188">
+            <simpleValue>
+              <point>3</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Tensile_x0020_Modulus_x002C__x0020_L_16016">
+            <simpleValue>
+              <point>75.8423367846736</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Poisson_x2019_s_x0020_Ratio_15983">
+            <simpleValue>
+              <point>0.33</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Compressive_x0020_Yield_x0020_Strength_x002C__x0020_L_15669">
+            <simpleValue>
+              <point>482.633052266105</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Compressive_x0020_Yield_x0020_Strength_x002C__x0020_LT_15687">
+            <simpleValue>
+              <point>496.422568045136</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Compressive_x0020_Yield_x0020_Strength_x002C__x0020_ST_15699">
+            <simpleValue>
+              <point>489.52781015562</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Compressive_x0020_Modulus_x002C__x0020_L_15663">
+            <simpleValue>
+              <point>77.2212883625767</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Ultimate_x0020_Shear_x0020_Strength_x002C__x0020_L_16407">
+            <simpleValue>
+              <point>317.158862917726</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Ultimate_x0020_Shear_x0020_Strength_x002C__x0020_LT_16125">
+            <simpleValue>
+              <point>303.369347138694</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Shear_x0020_Modulus_x002C__x0020_L_15991">
+            <simpleValue>
+              <point>28.2685073470147</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Bearing_x0020_Ultimate_x0020_Strength_x0020__x0028_e_x002F_D_x003D_1.5_x0029__x002C__x0020_L_16364">
+            <simpleValue>
+              <point>758.423367846736</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Bearing_x0020_Ultimate_x0020_Strength_x0020__x0028_e_x002F_D_x003D_1.5_x0029__x002C__x0020_LT_15260">
+            <simpleValue>
+              <point>779.107641515283</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Bearing_x0020_Ultimate_x0020_Strength_x0020__x0028_e_x002F_D_x003D_2.0_x0029__x002C__x0020_L_16371">
+            <simpleValue>
+              <point>992.845136090272</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Bearing_x0020_Ultimate_x0020_Strength_x0020__x0028_e_x002F_D_x003D_2.0_x0029__x002C__x0020_LT_15332">
+            <simpleValue>
+              <point>1013.52940975882</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Bearing_x0020_Yield_x0020_Strength_x0020__x0028_e_x002F_D_x003D_1.5_x0029__x002C__x0020_L_16386">
+            <simpleValue>
+              <point>634.317725835452</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Bearing_x0020_Yield_x0020_Strength_x0020__x0028_e_x002F_D_x003D_1.5_x0029__x002C__x0020_LT_15476">
+            <simpleValue>
+              <point>648.107241614483</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Bearing_x0020_Yield_x0020_Strength_x0020__x0028_e_x002F_D_x003D_2.0_x0029__x002C__x0020_L_16393">
+            <simpleValue>
+              <point>758.423367846736</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Bearing_x0020_Yield_x0020_Strength_x0020__x0028_e_x002F_D_x003D_2.0_x0029__x002C__x0020_LT_15548">
+            <simpleValue>
+              <point>730.844336288673</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Specific_x0020_Heat_x0020_with_x0020_Temp._16489">
+            <complexValue2 type="series" ranged="false" AttributeID="Attr_Specific_x0020_Heat_x0020_with_x0020_Temp._16489" attributeName="Specific Heat with Temp." PreferedXaxisParam="Parameter_8_Temperature" logarithmic="false">
+              <graphSeries>
+                <constraints />
+                <data isRanged="false">
+                  <values delimiter="," quote="&quot;" type="double" notApplicableToken="NA">0.879231456208136,0.894793852983021,0.909652864592938,0.923456798455406,0.935941885133561,0.946668508899301,0.955372900315761,0.961791289946081,0.965484062062155,0.96715460182895</values>
+                  <parameter delimiter="," quote="&quot;" type="double" notApplicableToken="NA" parameterName="Temperature" parameterID="Parameter_8_Temperature" defaultValue="299.81666667" interpolationType="Linear" scaleType="Linear">26.6666666666667,37.7777777777778,48.888888888889,60.0000000000001,71.1111111111112,82.2222222222223,93.3333333333334,104.444444444445,115.555555555556,126.666666666667</parameter>
+                </data>
+              </graphSeries>
+            </complexValue2>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+        </attributes>
+      </record>
+      <record type="record" recordguid="fc450a8c-b6ce-431f-8836-431ea927fe3e" historyguid="3878c2cf-9b6f-4e90-a9a7-a8d7d6e5936a" gruid="X56419a01-a9f1-4a45-96c5-d36f4dc7db0d" fullname="2050, T852, Die Forging, Thickness: 2 to 3.001 in, AMS 4357, B Basis" shortname="AMS 4357, B Basis" recordHistoryIdentity="146947" versionNumber="1">
+        <attributes>
+          <attribute attributeID="Attr_Approval_x0020_Status_14966">
+            <simpleValue>
+              <discrete>MP USER</discrete>
+              <discrete>MMU</discrete>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Material_x0020_Type_15077">
+            <simpleValue>
+              <discrete>Aluminum</discrete>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Alloy_x0020_Type_14965">
+            <simpleValue>
+              <discrete>2000 Series Wrought Alloys</discrete>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Grade_x0020_Type_16360">
+            <simpleValue>
+              <shorttext>2050</shorttext>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Heat_x0020_Treatment_15073">
+            <simpleValue>
+              <discrete>T852</discrete>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Available_x0020_Form_16853">
+            <simpleValue>
+              <shorttext>Die Forging</shorttext>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Thickness_16363">
+            <simpleValue>
+              <shorttext>50.8≤x&lt;76.225 mm</shorttext>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Material_x0020_Specification_15076">
+            <simpleValue>
+              <shorttext>AMS 4357</shorttext>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Density_15705">
+            <simpleValue>
+              <point>2.71263066159991</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Coefficient_x0020_of_x0020_Thermal_x0020_Expansion_15662">
+            <simpleValue>
+              <point>2.1618E-05</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Specific_x0020_Heat_15997">
+            <simpleValue>
+              <point>0.879231456208136</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Statistical_x0020_Basis_15128">
+            <simpleValue>
+              <discrete>B basis</discrete>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Tensile_x0020_Ultimate_x0020_Strength_x002C__x0020_L_16022">
+            <simpleValue>
+              <point>524.001599603199</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Tensile_x0020_Ultimate_x0020_Strength_x002C__x0020_LT_16040">
+            <simpleValue>
+              <point>524.001599603199</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Tensile_x0020_Ultimate_x0020_Strength_x002C__x0020_ST_16052">
+            <simpleValue>
+              <point>517.106841713683</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Tensile_x0020_Yield_x0020_Strength_x002C__x0020_L_16058">
+            <simpleValue>
+              <point>482.633052266105</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Tensile_x0020_Yield_x0020_Strength_x002C__x0020_LT_16076">
+            <simpleValue>
+              <point>482.633052266105</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Tensile_x0020_Yield_x0020_Strength_x002C__x0020_ST_16088">
+            <simpleValue>
+              <point>448.159262818526</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr__x0025__x0020_Elongation_x0020__x0028_4D_x0029__x002C__x0020_L_15158">
+            <simpleValue>
+              <point>8</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr__x0025__x0020_Elongation_x0020__x0028_4D_x0029__x002C__x0020_LT_15176">
+            <simpleValue>
+              <point>6</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr__x0025__x0020_Elongation_x0020__x0028_4D_x0029__x002C__x0020_ST_15188">
+            <simpleValue>
+              <point>3</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Tensile_x0020_Modulus_x002C__x0020_L_16016">
+            <simpleValue>
+              <point>75.8423367846736</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Poisson_x2019_s_x0020_Ratio_15983">
+            <simpleValue>
+              <point>0.33</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Compressive_x0020_Yield_x0020_Strength_x002C__x0020_L_15669">
+            <simpleValue>
+              <point>496.422568045136</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Compressive_x0020_Yield_x0020_Strength_x002C__x0020_LT_15687">
+            <simpleValue>
+              <point>510.212083824168</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Compressive_x0020_Yield_x0020_Strength_x002C__x0020_ST_15699">
+            <simpleValue>
+              <point>496.422568045136</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Compressive_x0020_Modulus_x002C__x0020_L_15663">
+            <simpleValue>
+              <point>77.2212883625767</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Ultimate_x0020_Shear_x0020_Strength_x002C__x0020_L_16407">
+            <simpleValue>
+              <point>324.053620807242</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Ultimate_x0020_Shear_x0020_Strength_x002C__x0020_LT_16125">
+            <simpleValue>
+              <point>310.26410502821</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Shear_x0020_Modulus_x002C__x0020_L_15991">
+            <simpleValue>
+              <point>28.2685073470147</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Bearing_x0020_Ultimate_x0020_Strength_x0020__x0028_e_x002F_D_x003D_1.5_x0029__x002C__x0020_L_16364">
+            <simpleValue>
+              <point>779.107641515283</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Bearing_x0020_Ultimate_x0020_Strength_x0020__x0028_e_x002F_D_x003D_1.5_x0029__x002C__x0020_LT_15260">
+            <simpleValue>
+              <point>799.79191518383</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Bearing_x0020_Ultimate_x0020_Strength_x0020__x0028_e_x002F_D_x003D_2.0_x0029__x002C__x0020_L_16371">
+            <simpleValue>
+              <point>1020.42416764834</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Bearing_x0020_Ultimate_x0020_Strength_x0020__x0028_e_x002F_D_x003D_2.0_x0029__x002C__x0020_LT_15332">
+            <simpleValue>
+              <point>1041.10844131688</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Bearing_x0020_Yield_x0020_Strength_x0020__x0028_e_x002F_D_x003D_1.5_x0029__x002C__x0020_L_16386">
+            <simpleValue>
+              <point>655.001999503999</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Bearing_x0020_Yield_x0020_Strength_x0020__x0028_e_x002F_D_x003D_1.5_x0029__x002C__x0020_LT_15476">
+            <simpleValue>
+              <point>668.791515283031</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Bearing_x0020_Yield_x0020_Strength_x0020__x0028_e_x002F_D_x003D_2.0_x0029__x002C__x0020_L_16393">
+            <simpleValue>
+              <point>779.107641515283</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Bearing_x0020_Yield_x0020_Strength_x0020__x0028_e_x002F_D_x003D_2.0_x0029__x002C__x0020_LT_15548">
+            <simpleValue>
+              <point>758.423367846736</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Specific_x0020_Heat_x0020_with_x0020_Temp._16489">
+            <complexValue2 type="series" ranged="false" AttributeID="Attr_Specific_x0020_Heat_x0020_with_x0020_Temp._16489" attributeName="Specific Heat with Temp." PreferedXaxisParam="Parameter_8_Temperature" logarithmic="false">
+              <graphSeries>
+                <constraints />
+                <data isRanged="false">
+                  <values delimiter="," quote="&quot;" type="double" notApplicableToken="NA">0.879231456208136,0.894793852983021,0.909652864592938,0.923456798455406,0.935941885133561,0.946668508899301,0.955372900315761,0.961791289946081,0.965484062062155,0.96715460182895</values>
+                  <parameter delimiter="," quote="&quot;" type="double" notApplicableToken="NA" parameterName="Temperature" parameterID="Parameter_8_Temperature" defaultValue="299.81666667" interpolationType="Linear" scaleType="Linear">26.6666666666667,37.7777777777778,48.888888888889,60.0000000000001,71.1111111111112,82.2222222222223,93.3333333333334,104.444444444445,115.555555555556,126.666666666667</parameter>
+                </data>
+              </graphSeries>
+            </complexValue2>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+        </attributes>
+      </record>
+      <record type="record" recordguid="37dce280-da46-4cdc-8825-ab3c1731859c" historyguid="aa49bd72-4e29-432b-8387-6172e58d3cba" gruid="X5e33c4a0-22b0-408b-a21f-7c87779b9984" fullname="1050, H18, Strip, Thickness: 0.200 mm, AMS 5085, S Basis" shortname="AMS 5085, S Basis" recordHistoryIdentity="146355" versionNumber="1">
+        <attributes>
+          <attribute attributeID="Attr_Approval_x0020_Status_14966">
+            <simpleValue>
+              <discrete>MP USER</discrete>
+              <discrete>UYDU</discrete>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Material_x0020_Type_15077">
+            <simpleValue>
+              <discrete>Aluminum</discrete>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Alloy_x0020_Type_14965">
+            <simpleValue>
+              <discrete>1000 Series Wrought Alloys</discrete>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Grade_x0020_Type_16360">
+            <simpleValue>
+              <shorttext>1050</shorttext>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Heat_x0020_Treatment_15073">
+            <simpleValue>
+              <discrete>H18</discrete>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Available_x0020_Form_16853">
+            <simpleValue>
+              <shorttext>Strip</shorttext>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Thickness_16363">
+            <simpleValue>
+              <shorttext>0.200 mm</shorttext>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Material_x0020_Specification_15076">
+            <simpleValue>
+              <shorttext>AMS 5085</shorttext>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Density_15705">
+            <simpleValue>
+              <point>2.71</point>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+          <attribute attributeID="Attr_Statistical_x0020_Basis_15128">
+            <simpleValue>
+              <discrete>S basis</discrete>
+            </simpleValue>
+            <attributeDataVersion>1</attributeDataVersion>
+          </attribute>
+        </attributes>
+      </record>
+    </records>
+  </data>
+</FEAExport>
